@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "appcentric-web"
+  "defaultProject": "appcentric-web",
+  "cli": {
+    "analytics": false
+  }
 }
